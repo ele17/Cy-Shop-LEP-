@@ -1,0 +1,3 @@
+pfl pau [ 2 pomme, 2 kaki, 2 poire,]
+pied main [ 5 poire, 2 pomme, 3 poire,]
+manchin chose [ 2 pomme,]
